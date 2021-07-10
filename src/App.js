@@ -13,7 +13,7 @@ function App() {
   });
   return (
     <div className="App">
-      <Form inputs={state} setInputs={setState}/>
+      <Form state={state} setState={setState}/>
       <Results formData={state}/>
     </div>
   );

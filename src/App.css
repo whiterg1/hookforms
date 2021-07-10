@@ -1,7 +1,3 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -12,6 +8,10 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.validations{
+  color: red;
+}
+
 
 .App-header {
   background-color: #282c34;
